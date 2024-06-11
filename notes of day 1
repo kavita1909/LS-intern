@@ -27,3 +27,5 @@ creating a new branch to deal with the emergency
 merging two branches master and project
         ---git checkout master
         ---git merge project
+Deleting a branch project
+        ---git branch -d project
