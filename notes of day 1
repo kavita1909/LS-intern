@@ -29,3 +29,6 @@ merging two branches master and project
         ---git merge project
 Deleting a branch project
         ---git branch -d project
+Use pull to update our local Git
+        ---git pull origin "branch name"
+
