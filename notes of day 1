@@ -22,3 +22,5 @@ checkout is the command used to check out a branch.
         ---git checkout Project
 Using --all instead of individual filenames will Stage all changed (new, modified, and deleted) files.
         ---git add --all
+creating a new branch to deal with the emergency
+        ---git checkout -b emergency -fix
