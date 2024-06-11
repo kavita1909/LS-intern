@@ -16,3 +16,5 @@ See all possible commands
         ---git help --all
 Creating a new branch called "Project"
         ---git branch Project
+To see all the branches and to know on which specific branch we are currently working on
+        ---git branch
