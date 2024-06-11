@@ -26,3 +26,11 @@ javascript can change the style of an HTML Element.
 javascript can hide HTML elements. 
 javascript can show hidden HTML elements 
 javascript output using innerHTML, Document.write(), window.alert(), console.log(). 
+
+PDF 6 : Javascript Programs
+semicolons ( multiple statements in one line are allowed) 
+javascript white space 
+javascript ine length and line breaks 
+create a variable, assign a value to it and display it 
+javascript arithmetic
+one statement, many variable
