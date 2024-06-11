@@ -2,3 +2,5 @@ Initialized Git on the folder, making it a Repository.
         ---git init
 check the Git status 
         ---git status
+ls will list the files in the directory.
+        ---ls
