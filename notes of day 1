@@ -1,2 +1,4 @@
 Initialized Git on the folder, making it a Repository.
         ---git init
+check the Git status 
+        ---git status
