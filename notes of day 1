@@ -20,3 +20,5 @@ To see all the branches and to know on which specific branch we are currently wo
         ---git branch
 checkout is the command used to check out a branch.
         ---git checkout Project
+Using --all instead of individual filenames will Stage all changed (new, modified, and deleted) files.
+        ---git add --all
