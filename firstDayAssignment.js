@@ -19,3 +19,10 @@ innerHTML property
 what is javascript function and events
 javascript is case sensitive 
 hyphens are not allowed in javascript, use underscore instead. 
+
+PDF 5 : What javascript can do ? 
+javascript can change HTML attributes. 
+javascript can change the style of an HTML Element. 
+javascript can hide HTML elements. 
+javascript can show hidden HTML elements 
+javascript output using innerHTML, Document.write(), window.alert(), console.log(). 
