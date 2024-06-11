@@ -31,4 +31,6 @@ Deleting a branch project
         ---git branch -d project
 Use pull to update our local Git
         ---git pull origin "branch name"
+Use push to update remte Git
+        ---git push origin "branch name"
 
