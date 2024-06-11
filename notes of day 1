@@ -12,3 +12,5 @@ Adding commits to keep track of our progress and changes as we work
         ---git commit -m"adding commits"
 See all the available options for the specific command
         ---git command -help
+See all possible commands
+        ---git help --all
