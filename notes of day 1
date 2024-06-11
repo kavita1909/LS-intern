@@ -14,3 +14,5 @@ See all the available options for the specific command
         ---git command -help
 See all possible commands
         ---git help --all
+Creating a new branch called "Project"
+        ---git branch Project
