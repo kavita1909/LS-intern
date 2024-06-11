@@ -24,3 +24,6 @@ Using --all instead of individual filenames will Stage all changed (new, modifie
         ---git add --all
 creating a new branch to deal with the emergency
         ---git checkout -b emergency -fix
+merging two branches master and project
+        ---git checkout master
+        ---git merge project
