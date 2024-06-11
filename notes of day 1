@@ -18,3 +18,5 @@ Creating a new branch called "Project"
         ---git branch Project
 To see all the branches and to know on which specific branch we are currently working on
         ---git branch
+checkout is the command used to check out a branch.
+        ---git checkout Project
