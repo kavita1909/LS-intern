@@ -41,3 +41,12 @@ javascript numbers
 javascript Booleans 
 javascript Arrays
 javascript Objects
+
+PDF 8 : Javascript typeof operator 
+the typeof operator
+primitive data : String, Number, null, undefined, Boolean
+complex data : Object, function
+undefined
+null
+empty values 
+diffrence between null and undefined
