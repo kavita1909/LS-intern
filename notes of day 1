@@ -4,3 +4,5 @@ check the Git status
         ---git status
 ls will list the files in the directory.
         ---ls
+add it to the Staging Environment
+        ---git add .
