@@ -8,3 +8,5 @@ add it to the Staging Environment
         ---git add .
 adding more than one file in the current directory to the Staging Environment.
         ---git add --all
+Adding commits to keep track of our progress and changes as we work
+        ---git commit -m"adding commits"
