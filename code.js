@@ -1,4 +1,2 @@
-var Work, work;
-work="engineer";
-Work="doctor";
+var Work ="tree" + 1 + 4;
 console.log(Work);

@@ -34,3 +34,10 @@ javascript ine length and line breaks
 create a variable, assign a value to it and display it 
 javascript arithmetic
 one statement, many variable
+
+PDF 7 : Javascript datatypes
+javascript strings 
+javascript numbers 
+javascript Booleans 
+javascript Arrays
+javascript Objects
