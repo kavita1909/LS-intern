@@ -76,3 +76,32 @@ PDF 14 : Javascript strings and Objects
 
 strings can be Objects
 string methods and properties
+
+PDF 15 : Javascript string methods
+
+string length
+finding a string in a string
+indexOf ()
+lastIndexOf()
+search()
+
+var str = "yes! please say please to please someone";
+var pos = str.indexOf("please", -10);
+var p = str.lastIndexOf("please", 15);
+var s = str.search("please");
+var d = str.substr(-10, 6);
+
+console.log(p, s, d)
+console.log("qqqqqqqqqq", pos)
+
+PDF 16 : Extracting string parent
+
+slice(start, end);
+substring(start, end)
+substr(start, length)
+
+var str = "apple, banana, kiwi";
+var a = str.slice(3,-10);
+var b = str.substring(3,10);
+var c = str.substr(7,6);
+console.log(a, b, c);
