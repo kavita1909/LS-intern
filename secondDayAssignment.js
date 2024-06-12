@@ -52,4 +52,27 @@ function myfunction(){
     console.log("The type of mobile name is " + mobname);
      }
 
+automatically global
+global variables in HTML
+Function Arguments
 
+PDF 12 : Javascript Events
+
+Javascript Events
+HTML Events
+Event handling
+common HTML Event
+Event handlers
+Javascript work with Events.
+
+PDF 13 : Javascript strings
+
+Javascript strings
+string length
+commonly used special characters
+breaking long code lines
+
+PDF 14 : Javascript strings and Objects
+
+strings can be Objects
+string methods and properties
