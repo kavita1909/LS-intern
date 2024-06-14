@@ -15,5 +15,8 @@
 // let x = 123;
 // console.log(x.toString(), " ", (12345).toString(), " ", (123+6899).toString());
 
-let x = 9.56432;
-console.log(x.toExponential(), " ", x.toExponential(2))
+// let x = 9.56432;
+// console.log(x.toExponential(), " ", x.toExponential(2), " ", x.toExponential(8))
+
+let x = 9.56482;
+console.log(x.toFixed(), " ", x.toFixed(3), " ", x.toFixed(60))
