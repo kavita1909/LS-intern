@@ -12,5 +12,8 @@
 // "Is 0 NaN? " + isNaN(0);
 // console.log(result);
 
-let x = 123;
-console.log(x.toString(), " ", (12345).toString(), " ", (123+6899).toString());
+// let x = 123;
+// console.log(x.toString(), " ", (12345).toString(), " ", (123+6899).toString());
+
+let x = 9.56432;
+console.log(x.toExponential(), " ", x.toExponential(2))
