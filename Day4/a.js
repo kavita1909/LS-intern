@@ -1,14 +1,14 @@
 
 // let result =
-// "Is '123' NaN? " + isNaN('123') + "<br>" +
-// "Is 'Hello' NaN? " + isNaN('Hello') + "<br>" +
+// "Is '123' NaN? " + isNaN('123') + "   " +
+// "Is 'Hello' NaN? " + isNaN('Hello') + "   " +
 // "Is '2005/12' NaN? " + isNaN('12+13');
 // console.log(result);
 
 // let result =
-// "Is 123 NaN? " + isNaN(123) + "<br>" +
-// "Is -1.23 NaN? " + isNaN(-1.23) + "<br>" +
-// "Is 5-2 NaN? " + isNaN("5-2") + "<br>" +
+// "Is 123 NaN? " + isNaN(123) + "   " +
+// "Is -1.23 NaN? " + isNaN(-1.23) + "   " +
+// "Is 5-2 NaN? " + isNaN("5-2") + "   " +
 // "Is 0 NaN? " + isNaN(0);
 // console.log(result);
 
@@ -39,6 +39,14 @@
 // }
 // console.log(text);
 
-console.log(Number("1234") + "   " + 
-Number(false) + "   " + 
-Number(new Date()))
+// console.log(Number("1234") + "   " + 
+// Number(false) + "   " + 
+// Number(new Date()))
+
+console.log(parseInt("10") + "   " +
+parseInt("10.00") + "   " +
+parseFloat("10.33") + "   " +
+parseInt("34 45 66") + "   " +
+parseInt("   60   ") + "   " +
+parseInt("40 years") + "   " +
+parseInt("He was 40"))
