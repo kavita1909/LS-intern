@@ -24,5 +24,17 @@
 // let x = 9.56482;
 // console.log(x.toPrecision(), " ", x.toPrecision(4), " ", x.toPrecision(3), " ", x.toPrecision(10))
 
-let x = 1234
-console.log(x.valueOf(), " ", (234576).valueOf())
+// let x = 1234
+// console.log(x.valueOf(), " ", (234576).valueOf())
+
+let text = " My name is Kavita. my friend's name is kiran. he is a idiot";
+restricted = ["idiot", "rascal", "nonsense"];
+goodWord = [ { word:"kiran", newWord:"Totan"} ];
+let i, j;
+for (i=0; i<restricted.length; i++) {
+    text = text.replaceAll(restricted[i], "")
+}
+for (j=0; j<goodWord.length; j++) {
+    text = text.replaceAll(goodWord[j].word, goodWord[j].newWord);
+}
+console.log(text);
