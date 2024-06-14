@@ -18,5 +18,8 @@
 // let x = 9.56432;
 // console.log(x.toExponential(), " ", x.toExponential(2), " ", x.toExponential(8))
 
+// let x = 9.56482;
+// console.log(x.toFixed(), " ", x.toFixed(3), " ", x.toFixed(60))
+
 let x = 9.56482;
-console.log(x.toFixed(), " ", x.toFixed(3), " ", x.toFixed(60))
+console.log(x.toPrecision(), " ", x.toPrecision(4), " ", x.toPrecision(3), " ", x.toPrecision(10))
