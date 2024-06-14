@@ -27,14 +27,18 @@
 // let x = 1234
 // console.log(x.valueOf(), " ", (234576).valueOf())
 
-let text = " My name is Kavita. my friend's name is kiran. he is a idiot";
-restricted = ["idiot", "rascal", "nonsense"];
-goodWord = [ { word:"kiran", newWord:"Totan"} ];
-let i, j;
-for (i=0; i<restricted.length; i++) {
-    text = text.replaceAll(restricted[i], "")
-}
-for (j=0; j<goodWord.length; j++) {
-    text = text.replaceAll(goodWord[j].word, goodWord[j].newWord);
-}
-console.log(text);
+// let text = " My name is Kavita. my friend's name is kiran. he is a idiot";
+// restricted = ["idiot", "rascal", "nonsense"];
+// goodWord = [ { word:"kiran", newWord:"Totan"} ];
+// let i, j;
+// for (i=0; i<restricted.length; i++) {
+//     text = text.replaceAll(restricted[i], "")
+// }
+// for (j=0; j<goodWord.length; j++) {
+//     text = text.replaceAll(goodWord[j].word, goodWord[j].newWord);
+// }
+// console.log(text);
+
+console.log(Number("1234") + "   " + 
+Number(false) + "   " + 
+Number(new Date()))
