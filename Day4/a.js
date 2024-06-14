@@ -43,10 +43,27 @@
 // Number(false) + "   " + 
 // Number(new Date()))
 
-console.log(parseInt("10") + "   " +
-parseInt("10.00") + "   " +
-parseFloat("10.33") + "   " +
-parseInt("34 45 66") + "   " +
-parseInt("   60   ") + "   " +
-parseInt("40 years") + "   " +
-parseInt("He was 40"))
+// console.log(parseInt("10") + "   " +
+// parseInt("10.00") + "   " +
+// parseFloat("10.33") + "   " +
+// parseInt("34 45 66") + "   " +
+// parseInt("   60   ") + "   " +
+// parseInt("40 years") + "   " +
+// parseInt("He was 40"))
+
+// restricted = "idiot";
+// console.log(Array.isArray(restricted));
+
+// let array=[];
+// array.length = 10;
+// console.log(array.fill(2))
+
+// Create an array with 10 elements, all filled with 0
+// let arrayWithZeros = new Array(10).fill(0);
+
+// console.log(arrayWithZeros);
+
+let arr = [ 1, 2, 3, 4]
+// arr.unshift(0)
+arr.splice(1, 0, 5, 6, 7)
+console.log(arr)
