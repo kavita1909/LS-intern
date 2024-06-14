@@ -21,5 +21,8 @@
 // let x = 9.56482;
 // console.log(x.toFixed(), " ", x.toFixed(3), " ", x.toFixed(60))
 
-let x = 9.56482;
-console.log(x.toPrecision(), " ", x.toPrecision(4), " ", x.toPrecision(3), " ", x.toPrecision(10))
+// let x = 9.56482;
+// console.log(x.toPrecision(), " ", x.toPrecision(4), " ", x.toPrecision(3), " ", x.toPrecision(10))
+
+let x = 1234
+console.log(x.valueOf(), " ", (234576).valueOf())
