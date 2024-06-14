@@ -65,5 +65,5 @@
 
 let arr = [ 1, 2, 3, 4]
 // arr.unshift(0)
-arr.splice(1, 0, 5, 6, 7)
+arr.splice(1, 2, 5, 6, 7)
 console.log(arr)
