@@ -63,7 +63,13 @@
 
 // console.log(arrayWithZeros);
 
-let arr = [ 1, 2, 3, 4]
-// arr.unshift(0)
-arr.splice(1, 2)
-console.log(arr)
+// let arr = [ 1, 2, 3, 4]
+// // arr.unshift(0)
+// arr.splice(1, 2)
+// console.log(arr)
+
+let arr = [1, 2, 3];
+
+console.log(arr instanceof Array);
+console.log(arr instanceof Object); 
+console.log(arr instanceof String);
